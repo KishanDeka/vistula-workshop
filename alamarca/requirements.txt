@@ -1,0 +1,16 @@
+# Core data science and visualization
+numpy
+pandas
+matplotlib
+seaborn
+
+# Machine learning
+scikit-learn
+xgboost
+tensorflow
+
+# Astronomy dataset utilities
+astroML
+
+# Additional dependencies
+Pillow
